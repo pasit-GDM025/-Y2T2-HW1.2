@@ -1,0 +1,15 @@
+D:\Works\GDMY2\CODEY2T2\-Y2T2-HW1.2\bin\Debug\net6.0\-Y2T2-HW1.2.exe
+D:\Works\GDMY2\CODEY2T2\-Y2T2-HW1.2\bin\Debug\net6.0\-Y2T2-HW1.2.deps.json
+D:\Works\GDMY2\CODEY2T2\-Y2T2-HW1.2\bin\Debug\net6.0\-Y2T2-HW1.2.runtimeconfig.json
+D:\Works\GDMY2\CODEY2T2\-Y2T2-HW1.2\bin\Debug\net6.0\-Y2T2-HW1.2.dll
+D:\Works\GDMY2\CODEY2T2\-Y2T2-HW1.2\bin\Debug\net6.0\-Y2T2-HW1.2.pdb
+D:\Works\GDMY2\CODEY2T2\-Y2T2-HW1.2\obj\Debug\net6.0\-Y2T2-HW1.2.csproj.AssemblyReference.cache
+D:\Works\GDMY2\CODEY2T2\-Y2T2-HW1.2\obj\Debug\net6.0\-Y2T2-HW1.2.GeneratedMSBuildEditorConfig.editorconfig
+D:\Works\GDMY2\CODEY2T2\-Y2T2-HW1.2\obj\Debug\net6.0\-Y2T2-HW1.2.AssemblyInfoInputs.cache
+D:\Works\GDMY2\CODEY2T2\-Y2T2-HW1.2\obj\Debug\net6.0\-Y2T2-HW1.2.AssemblyInfo.cs
+D:\Works\GDMY2\CODEY2T2\-Y2T2-HW1.2\obj\Debug\net6.0\-Y2T2-HW1.2.csproj.CoreCompileInputs.cache
+D:\Works\GDMY2\CODEY2T2\-Y2T2-HW1.2\obj\Debug\net6.0\-Y2T2-HW1.2.dll
+D:\Works\GDMY2\CODEY2T2\-Y2T2-HW1.2\obj\Debug\net6.0\refint\-Y2T2-HW1.2.dll
+D:\Works\GDMY2\CODEY2T2\-Y2T2-HW1.2\obj\Debug\net6.0\-Y2T2-HW1.2.pdb
+D:\Works\GDMY2\CODEY2T2\-Y2T2-HW1.2\obj\Debug\net6.0\-Y2T2-HW1.2.genruntimeconfig.cache
+D:\Works\GDMY2\CODEY2T2\-Y2T2-HW1.2\obj\Debug\net6.0\ref\-Y2T2-HW1.2.dll
